@@ -1,0 +1,1 @@
+# Accept-any-three-string-from-one-input-call
